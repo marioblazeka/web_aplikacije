@@ -33,3 +33,32 @@ Vue.js prototip frontenda - složiti frontend u Javascript/Vue kombinaciji bez b
 Frontend je potrebno commitati na URL frontenda koji ste prijavili kada ste prijavili projekt.
 
 Finalna verzija (za ispitni rok) - kada završite i predaje projekte, javite se nastavniku za dogovor oko obrane. Obrana ne mora biti u terminu ispitnoga roka. Ocjena se unosi na sljedeći rok. Opširnije upute dostupne su na https://bit.ly/wa-upute-predaja
+
+
+Vježbe 01
+Što smo radili?
+Prošli smo kroz načine kako ćemo raditi i što ćemo raditi
+Predstavljen vam je kolegij i vaše obveze (bodovi)
+Zadatak je bio postaviti radni environment za sljedeći put
+Bodove su dobili svi koji su došli i pod uvjetom da im taj environment radi sljedeći put
+
+Što radimo sljedeći put?
+Vidjet ćemo kako radi internet
+Kakva je uloga HTTP-a u svemu tome
+Koji je "glavni" arhitekturalni princip pri izgradnji web aplikacija
+Javascript vježba (nekakvo ponavljanje za informatičare, uvodni problemi za računarce)
+
+Što (moraš/trebaš/možeš/želiš) vježbati/pogledati za sljedeći put?
+https://en.wikipedia.org/wiki/Internet
+
+https://en.wikipedia.org/wiki/HTTP
+
+https://en.wikipedia.org/wiki/Multitier_architecture
+
+https://en.wikipedia.org/wiki/Front-end_web_development
+https://en.wikipedia.org/wiki/Frontend_and_backend
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps <- računarci
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks
+
+
