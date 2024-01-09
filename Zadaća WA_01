@@ -1,0 +1,23 @@
+Preuzmi commitove Vue.js repozitorija i prikaži rezultat
+Zadatak je napraviti malu Vue.js aplikaciju koja će prikazivati commitove službenog Vue.js GitHub
+repozitorija.
+1. Aplikacija se treba sastojati od dva screen-a/page-a.
+2. Prvi page mora prikazivati 10-tak commitova u obliku liste SHA-ova (jedinstveni ID commita).
+3. Drugi page prikazuje detalje tog commita - ime i email autora, poruku commita te datum kada
+je commitano.
+4. Pritisak na SHA link s prvog pagea vas vodi do detalja tog specifičnog commita na novom pageu
+(koristiti dinamičke rute).
+5. Treba postojati back button na drugom pageu koji vodi natrag na prvi i...
+6. Neka izgleda lijepo :)
+Moguće riješenje:
+1. Pošalji GET request na: ' https://api.github.com/repos/vuejs/vue/commits ' (isprobaj u
+browseru ili Postmanu - vidi niže),
+2. Response od tog GET requesta stavi u data() prvog page-a (vue komponente na tom pageu),
+3. <template> dio neka čini neka podloga, primjerice prazan v-card kao što ima Vuetify,
+4. Unutar tog v-card a neka bude jedan v-for za iteraciju nad podacima Responsea - SHA
+linkovima,
+5. (Opcionalno) Detalji** (page 2) neka budu komponenta kojoj će se detalji commita proslijediti
+kao props i i
+6. To je više-manje to, stavi button s linkom za povratak.
+Detalji ne moraju biti komponenta, samo prijedlog.
+Tip: možete koristiti Vuetify i instalirajte si Postman: https://www.postman.com/.
