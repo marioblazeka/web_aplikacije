@@ -1,0 +1,24 @@
+//1. Zadatak 
+//Napisi funkciju koja provjerava je li uneseni broj prost
+function isPrime(n) {
+
+}
+
+isPrime(5); //Mora ispisati da je broj prost
+isPrime(6); //Mora ispisati da broj nije prost
+
+//2. Zadatak
+//Napisi funkciju koja sumira brojeve od 1 do unesenog broja
+function sumUpTheNumbers(n) {
+
+}
+sumUpTheNumbers(100); //Mora ispisati 5050
+sumUpTheNumbers(1000); // Mora ispisati 500500
+
+
+//3. Zadatak
+//Napusi funkciju koja zbraja samo proste brojeve i pritom filtrira ne-brojeve
+function sumUpThePrimeNumbers(n) {
+
+}
+sumUpThePrimeNumbers([100, 11, 7, null, "x"]);
