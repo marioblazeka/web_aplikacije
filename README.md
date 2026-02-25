@@ -62,3 +62,5 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps <- računa
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks
 
 
+
+
